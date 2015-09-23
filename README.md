@@ -3,7 +3,7 @@
 Este material foi desenvolvido para auxiliar profissionais do atendimento e planejamento à recolherem informações
 importantes sobre o projeto, a fim de melhorar a capacidade de criação e desenvolvimento de projetos web.
 
-### Início
+### 1. Início
 
 No início precisamos recolher informações sobre o que e com quem estamos tratando. Preenchemos os campos a seguir:
 
@@ -16,17 +16,25 @@ No início precisamos recolher informações sobre o que e com quem estamos trat
 * Responsável pelo atendimento
 * Responsável pelo Briefing
 
-### O projeto
+### 2. O projeto
 
-### A concorrência
+### 3. A concorrência
 
-### O preferências
+### 4. As preferências
 
 Iniciamos aqui um levantamento pontos sobre preferências do cliente, referências e linha de design que o projeto deve seguir:
 
 *
 
-### A execução
+### 5. A execução
+
+##### 5.1 Digital
+
+##### 5.2 Gráfico
+
+##### 5.3 Web
+
+
 
 ### Apresentação
 
